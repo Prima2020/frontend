@@ -1,4 +1,0 @@
-helloNewUsers
-helloworld
-ocean
-everyone

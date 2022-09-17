@@ -10,7 +10,7 @@ body::before {
     background-color: black !important;
 }
 .boxes {
-    background-color: rgb(43, 43, 78);
+    background-color: rgb(244, 244, 250);
 }
 #learn {
     background-color: black !important;
@@ -21,7 +21,6 @@ body::before {
     color: #fff;
     border: none;
 }
-
 @media (min-width: 768px) {
     .news-input{
         width: 50%;
