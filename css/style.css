@@ -1,0 +1,29 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+#navbar {
+    background-color: black !important;
+}
+#showcase {
+    background-color: black !important;
+}
+.boxes {
+    background-color: rgb(43, 43, 78);
+}
+#learn {
+    background-color: black !important;
+    color: #fff;
+}
+#learn .btn:hover {
+    background-color: black;
+    color: #fff;
+    border: none;
+}
+
+@media (min-width: 768px) {
+    .news-input{
+        width: 50%;
+    }
+}
